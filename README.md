@@ -9,7 +9,7 @@ Application Streamlit pour analyser un jeu de données e-commerce avec les modè
 4. Déployer sur Streamlit Community Cloud via GitHub.
 
 ## Utilisation
-- Charger un fichier CSV (`donnees_ecommerce.xlsx`) via l’interface.
+- Charger un fichier xlsx (`donnees_ecommerce.xlsx`) via l’interface.
 - Sélectionner un modèle (Segmentation(FP-Growth),Segmentation K-means,Segmentation RFM) pour afficher les résultats.
 - Consulter les statistiques descriptives dans l’onglet dédié.
 
