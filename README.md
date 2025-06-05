@@ -1,4 +1,4 @@
-# Analyse de Données E-commerce
+#Application d'Analyse de Données E-commerce
 
 Application Streamlit pour analyser un jeu de données e-commerce avec les modèles FP-Growth, K-means, et RFM.
 
@@ -10,7 +10,7 @@ Application Streamlit pour analyser un jeu de données e-commerce avec les modè
 
 ## Utilisation
 - Charger un fichier xlsx (`donnees_ecommerce.xlsx`) via l’interface.
-- Sélectionner un modèle (Segmentation(FP-Growth),Segmentation K-means,Segmentation RFM) pour afficher les résultats.
+- Sélectionner un modèle (Règles d'association (FP-Growth), Segmentation K-means, Segmentation RFM) pour afficher les résultats.
 - Consulter les statistiques descriptives dans l’onglet dédié.
 
 ## Dépendances
