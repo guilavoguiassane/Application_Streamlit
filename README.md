@@ -1,4 +1,4 @@
-#Application d'Analyse de Données E-commerce
+## Application d'Analyse de Données E-commerce
 
 Application Streamlit pour analyser un jeu de données e-commerce avec les modèles FP-Growth, K-means, et RFM.
 
